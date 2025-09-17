@@ -65,8 +65,6 @@ footer {
     color: #222;
 }
 
-
-/* Tabela de dados ilustrativos */
 table {
     width: 100%;
     border-collapse: collapse;
@@ -101,7 +99,6 @@ tbody tr:nth-child(even) {
     background-color: #eef4fa;
 }
 
-/* Listas ordenadas e não ordenadas */
 ol, ul {
     margin-left: 24px;
     margin-bottom: 18px;
@@ -112,7 +109,6 @@ ol li, ul li {
     line-height: 1.5;
 }
 
-/* Subtítulo h3 */
 main h3 {
     color: #155390;
     margin-top: 28px;
@@ -120,7 +116,6 @@ main h3 {
     font-weight: bold;
 }
 
-/* Destacar <strong> e <em> dentro de listas */
 li strong {
     color: #155390;
 }
